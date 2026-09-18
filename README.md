@@ -43,7 +43,5 @@ jupyter notebook synthetic_logo_classification.ipynb
 
 Replace the synthetic dataset with a real labeled brand-logo dataset (genuine vs. counterfeit) and re-report accuracy on that — the honest expectation is a substantially lower, more meaningful number.
 
-## Author
 
-Ans Tanveer Hashmi — BS Data Science, MNS University of Agriculture, Multan.
-[LinkedIn] · [GitHub]
+
